@@ -1,71 +1,21 @@
-This is Full Stack Video Library Project using MERN stack
-Live Link - Videoztron
+![image](https://github.com/user-attachments/assets/142cf07b-5a0e-4a72-a610-94fd5be60a65)This is Full Stack Video Library Project using MERN stack
 
-Available Scripts
-In the project directory, you can run:
-
-npm start
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-Technologies used
-HTML
-CSS
-JavaScript
-React
-Node JS, Express JS and MongoDb is used for Backend server which is deployed on Vercel.
 Features:
-User Authentication (Signup, Login and Logout)
-Home Page
-Video Listing Page
-Playlist management
-Like/Dislike Feature
-Add to watch later
-Watched History
-Single Video Page
-Filter videos with categories
-Lottie Loading Loader for Home Page while data is fetching
-Custom Toast Component with 4 types - Success, Error, Warning and Information
-You are welcome to contribute to this project
-Create a personal fork of the project on Github.
-Clone the fork on your local machine. Your remote repo on Github is called origin.
-Add the original repository as a remote called upstream.
-If you created your fork a while ago be sure to pull upstream changes into your local repository.
-Create a new branch to work on! Branch from development branch.
-Implement/fix your feature, comment your code.
-Squash your commits into a single commit with git's interactive rebase. Create a new branch if necessary.
-Push your branch to your fork on Github, the remote origin.
-From your fork open a pull request in the correct branch. Target the project's development branch.
-Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
-And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
-You can report issues on this project using Github issue
-You can read more about this from Github Docs
-Screenshots
-Home Page
+1. User Authentication (Signup, Login and Logout)
+2. Home Page
+3. Video Listing Page
+4. Playlist management
+5. Like/Dislike Feature
+6. Add to watch later
+7. Watched History
+8. Single Video Page
+9. Filter videos with categories
+10. Lottie Loading Loader for Home Page while data is fetching
+11. Custom Toast Component with 4 types - Success, Error, Warning and Information
 
-
-Video Listing Page
-
-
-User Authentication Pages
- 
-
-Single Video Page
-
-
-Watch Later Page
-
-
-Liked Videos Page
-
-
-All Playlists Page
-
-
-Individual Playlist Page
-
-
-User History Page
+    ![image](https://github.com/user-attachments/assets/84eba6f3-5501-4cac-a90f-e254c38a888c)
+![image](https://github.com/user-attachments/assets/1c6a285c-8e30-466f-8bff-d44719daa3ec)
+![image](https://github.com/user-attachments/assets/b549d24a-d51a-423a-9484-bef338132016)
+![image](https://github.com/user-attachments/assets/0dff1bee-9817-4852-80ce-10889ee9d9cf)
+![image](https://github.com/user-attachments/assets/3fbfa92d-844a-48dd-b725-547f952d56ea)
+![Uploading image.png…]()
